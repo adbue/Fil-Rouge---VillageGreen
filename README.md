@@ -23,9 +23,9 @@ Les fonctionnalités attendues sont les suivantes :
 
 En utilisant l'outil de gestion de versions GIT :
 
-   * 1.1 - Créez un dépôt pour suivre les modifications apportées à votre projet.
-   * 1.2 - Synchronisez votre dépôt local avec un dépôt distant GitHub.
-   * 1.3 - Votre dépôt doit être accessible publiquement et contenir un fichier README.md.
+   * [x] 1.1 - Créez un dépôt pour suivre les modifications apportées à votre projet.
+   * [x] 1.2 - Synchronisez votre dépôt local avec un dépôt distant GitHub.
+   * [x] 1.3 - Votre dépôt doit être accessible publiquement et contenir un fichier README.md.
 
 ### 2 - Mettre en place une base de données
 
